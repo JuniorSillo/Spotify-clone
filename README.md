@@ -94,11 +94,8 @@ Make sure you have the following installed on your machine:
 - **.env**: Environment variables for API keys and configuration.
 
 ## 📱 Screenshots
-![Screenshot 2024-08-26 at 00 29 18](https://github.com/user-attachments/assets/373a2a78-e34b-422c-9e36-b2578a8652e8)
 ![Screenshot 2024-08-26 at 00 28 56](https://github.com/user-attachments/assets/80741be7-0a2c-4a53-bd0a-0066eb67869d)
-
-
-_Add screenshots to showcase your app’s design._
+![Screenshot 2024-08-26 at 00 29 18](https://github.com/user-attachments/assets/373a2a78-e34b-422c-9e36-b2578a8652e8)
 
 ## 🔧 Customization
 
