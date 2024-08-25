@@ -111,6 +111,3 @@ This project is licensed under the MIT License. Feel free to fork, modify, and u
 - Thanks to **Spotify** for providing an excellent API for developers.
 - Gratitude to the **React** and **Vite** communities for their powerful tools and libraries.
 
----
-
-This README is tailored to give an overview of your Spotify clone project, including setup instructions, project structure, and customization options. You can modify the content to better reflect your project’s specifics.
