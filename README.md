@@ -97,6 +97,9 @@ Make sure you have the following installed on your machine:
 ![Screenshot 2024-08-26 at 00 28 56](https://github.com/user-attachments/assets/80741be7-0a2c-4a53-bd0a-0066eb67869d)
 ![Screenshot 2024-08-26 at 00 29 18](https://github.com/user-attachments/assets/373a2a78-e34b-422c-9e36-b2578a8652e8)
 
+## Live Demo: https://spotify-clone-plum-pi.vercel.app
+
+
 ## 🔧 Customization
 
 - **API Integration**: You can extend or modify the app by integrating additional features from the Spotify API.
